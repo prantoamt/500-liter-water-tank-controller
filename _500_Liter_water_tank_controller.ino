@@ -1,6 +1,6 @@
 /*This code is for 500 Litre water tank. The device and code for 500 Litre water tank is tested and marked as varified.
 500 Litre water tank has 84 cm depth. So, I have divided the tank in 4 parts. Frist of all we have to remember that the Ultrasonic Sensor and the 
-water must have 10 cm distance so that the water can't touch the sensor. So, I kept a minimum distance of 10cm. */
+water must have 10 cm distance so that the water can't touch the sensor. So, I kept a minimum distance at 10cm. */
 int echo = 8;
 int trig = 7;
 int relay = 3;
