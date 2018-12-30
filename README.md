@@ -14,3 +14,4 @@ There is no need for any human interaction at all. Overall, it saves the users t
 
 ### Circuit Diagram:
 
+<img src="Circuit Diagram.PNG">
