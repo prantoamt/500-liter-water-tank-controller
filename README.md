@@ -10,7 +10,7 @@ There is no need for any human interaction at all. Overall, it saves the users t
 #### Features:
 * Turns on the pump motor when water level is low
 * Turns off the pump motor when water level is full
-* Indicates the water level through 3 leds
+* Indicates the water level through 4 leds
 
 ### Circuit Diagram:
 
